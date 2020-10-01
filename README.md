@@ -13,7 +13,7 @@
   ```
   python detect_mask_image.py --image examples/<image_name>
   
-  apart from this you can also try 
+ * Apart from this you can also try 
   
   https://medium.com/@drojasug/measuring-social-distancing-using-tensorflow-object-detection-api-7c54badb5092
   
