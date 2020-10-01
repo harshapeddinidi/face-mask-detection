@@ -12,4 +12,11 @@
 * To detect facemask in an image, use the following command
   ```
   python detect_mask_image.py --image examples/<image_name>
+  
+  apart from this you can also try 
+  
+  https://medium.com/@drojasug/measuring-social-distancing-using-tensorflow-object-detection-api-7c54badb5092
+  
+  artical on towors the data science it is an important and interesting one to do
+
   ```
